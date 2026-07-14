@@ -32,7 +32,13 @@ app.add_middleware(
 # Startup ETL & ML Trigger
 @app.on_event("startup")
 def on_startup():
-    source_data_dir = r"C:\Users\karth\Downloads\PROTO\source_data"
+    source_data_dir = os.getenv(
+        "SOURCE_DATA_DIR",
+        os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "source_data")
+    )
+    if not os.path.isabs(source_data_dir):
+        source_data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), source_data_dir)
+
     if not os.path.exists(source_data_dir):
         print(f"ERROR: Source data directory '{source_data_dir}' does not exist.")
         # Create schema anyway so app doesn't break
