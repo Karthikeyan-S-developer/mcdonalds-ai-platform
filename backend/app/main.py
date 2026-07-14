@@ -16,14 +16,15 @@ from .ml_services import ml_platform
 app = FastAPI(title="McDonald's Intelligent AI-Driven Operations & CX Platform")
 
 # Configure CORS
+allow_origins = os.getenv(
+    "ALLOW_ORIGINS",
+    "http://localhost:5173,http://127.0.0.1:5173,http://localhost:5174,http://127.0.0.1:5174"
+).split(",")
+allow_origins = [origin.strip() for origin in allow_origins if origin.strip()]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "http://127.0.0.1:5173",
-        "http://localhost:5174",
-        "http://127.0.0.1:5174"
-    ],
+    allow_origins=allow_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
