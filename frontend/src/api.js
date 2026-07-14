@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:8000";
+const API_BASE_URL = "https://mcdonalds-ai-platform.onrender.com";
 
 const apiRequest = async (endpoint, method = "GET", body = null, token = null) => {
   const headers = {
