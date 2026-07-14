@@ -1,0 +1,41 @@
+store_id,store_name,city,state,store_type,opened_date
+1,Store #001 - North Judithbury,New Mariotown,Georgia,Mall Location,2022-02-06
+2,Store #002 - East Jill,West Natashaport,Florida,Drive-Thru,2020-04-19
+3,Store #003 - New Roberttown,North John,Pennsylvania,Drive-Thru,2021-10-12
+4,Store #004 - East Jessetown,North Jessicaland,Illinois,Dine-In,2021-03-26
+5,Store #005 - Lake Debra,East Donna,Georgia,Dine-In,2024-12-09
+6,Store #006 - Robinsonshire,West Allison,Michigan,Dine-In,2018-05-14
+7,Store #007 - Lisatown,Brandtside,New York,Drive-Thru,2022-12-22
+8,Store #008 - Lake Roberto,Lake Larry,Georgia,Drive-Thru,2018-09-04
+9,Store #009 - Ericmouth,Samuelhaven,Pennsylvania,Kiosk,2020-02-02
+10,Store #010 - North Noahstad,Martinezbury,Illinois,Dine-In,2022-07-28
+11,Store #011 - Cassandraton,West Andrewside,Florida,Drive-Thru,2019-03-25
+12,Store #012 - Herrerafurt,New Jeffrey,Pennsylvania,Dine-In,2019-05-17
+13,Store #013 - New Kellystad,Lake Crystalbury,Pennsylvania,Kiosk,2023-04-18
+14,Store #014 - Lake Chad,North Micheleland,New York,Drive-Thru,2017-03-07
+15,Store #015 - Port Keith,West Elizabeth,Ohio,Dine-In,2020-08-26
+16,Store #016 - Port Jesseville,New David,Illinois,Drive-Thru,2025-07-06
+17,Store #017 - Ramirezstad,Sanchezfort,Texas,Dine-In,2025-06-29
+18,Store #018 - West Michael,Leeville,Pennsylvania,Kiosk,2017-03-09
+19,Store #019 - Jacquelineland,Gomezchester,Ohio,Drive-Thru,2018-06-12
+20,Store #020 - New Jessica,Shieldston,Texas,Drive-Thru,2018-11-30
+21,Store #021 - South Noah,North Richardmouth,Illinois,Mall Location,2024-12-04
+22,Store #022 - Lake Mark,East Jamesside,California,Drive-Thru,2024-06-15
+23,Store #023 - East Lydiamouth,Taylorburgh,Michigan,Dine-In,2024-06-10
+24,Store #024 - Adamsborough,Stevenland,Ohio,Drive-Thru,2019-11-08
+25,Store #025 - Jasonfort,Mortonside,North Carolina,Drive-Thru,2017-12-12
+26,Store #026 - Wilkersonmouth,North Deniseside,California,Mall Location,2024-01-12
+27,Store #027 - West Donald,North Sarabury,Michigan,Kiosk,2022-11-10
+28,Store #028 - Juliechester,South Todd,New York,Drive-Thru,2022-01-12
+29,Store #029 - Coxberg,Port Richard,Georgia,Drive-Thru,2025-05-31
+30,Store #030 - Daviston,East Nicholasfurt,Florida,Drive-Thru,2022-05-31
+31,Store #031 - East Courtneychester,Saramouth,North Carolina,Mall Location,2016-08-06
+32,Store #032 - South Patrickmouth,Rodneyside,New York,Drive-Thru,2023-11-18
+33,Store #033 - Tashatown,Mooreport,Illinois,Dine-In,2019-03-23
+34,Store #034 - Lake Nicoleview,North Beth,New York,Dine-In,2022-07-01
+35,Store #035 - Danielchester,Lake Leeton,Georgia,Dine-In,2024-12-23
+36,Store #036 - South Aaron,Shawhaven,Illinois,Dine-In,2017-09-26
+37,Store #037 - Teresaburgh,North Susan,North Carolina,Drive-Thru,2017-07-26
+38,Store #038 - Port Colleenhaven,Port Jacobland,Georgia,Drive-Thru,2017-06-28
+39,Store #039 - East Nathaniel,South David,Texas,Dine-In,2021-07-04
+40,Store #040 - New Stephanie,New Brooke,Florida,Dine-In,2018-12-24

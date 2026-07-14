@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price
+1,Classic Cheeseburger,Burgers,3.49
+2,Double Beef Burger,Burgers,5.49
+3,Bacon Deluxe Burger,Burgers,5.99
+4,Veggie Burger,Burgers,4.99
+5,Crispy Chicken Sandwich,Chicken,4.99
+6,Spicy Chicken Sandwich,Chicken,5.29
+7,Chicken Nuggets (6pc),Chicken,3.99
+8,Chicken Nuggets (10pc),Chicken,5.99
+9,Small Fries,Sides,1.99
+10,Medium Fries,Sides,2.79
+11,Large Fries,Sides,3.49
+12,Side Salad,Sides,2.99
+13,Hashbrown,Sides,1.49
+14,Small Soda,Beverages,1.29
+15,Medium Soda,Beverages,1.79
+16,Large Soda,Beverages,2.19
+17,Iced Coffee,Beverages,2.49
+18,Milkshake,Beverages,3.29
+19,Bottled Water,Beverages,1.49
+20,Egg McMuffin Style,Breakfast,3.99
+21,Hotcakes,Breakfast,3.49
+22,Breakfast Burrito,Breakfast,3.79
+23,Apple Pie,Desserts,1.49
+24,Sundae,Desserts,1.99
+25,Cookie,Desserts,0.99
+26,Cappuccino,McCafe,2.99
+27,Latte,McCafe,3.29
+28,Mocha,McCafe,3.49
+29,Hot Chocolate,McCafe,2.49
+30,Apple Pie (Combo),Desserts,4.98
+31,Bacon Deluxe Burger (Combo),Burgers,9.48
+32,Spicy Chicken Sandwich (Combo),Chicken,8.78
+33,Crispy Chicken Sandwich (Combo),Chicken,8.48
+34,Cookie (Combo),Desserts,4.48
+35,Egg McMuffin Style (Combo),Breakfast,7.48
+36,Hotcakes (Combo),Breakfast,6.98
+37,Classic Cheeseburger (Combo),Burgers,6.98
+38,Double Beef Burger (Combo),Burgers,8.98
+39,Crispy Chicken Sandwich (Combo),Chicken,8.48
+40,Egg McMuffin Style (Combo),Breakfast,7.48
+41,Cookie (Combo),Desserts,4.48
+42,Cookie (Combo),Desserts,4.48
+43,Medium Soda (Combo),Beverages,5.28
+44,Milkshake (Combo),Beverages,6.78
+45,Small Fries (Combo),Sides,5.48
+46,Latte (Combo),McCafe,6.78
+47,Sundae (Combo),Desserts,5.48
+48,Large Fries (Combo),Sides,6.98
+49,Spicy Chicken Sandwich (Combo),Chicken,8.78
+50,Mocha (Combo),McCafe,6.98
+51,Classic Cheeseburger (Combo),Burgers,6.98
+52,Small Soda (Combo),Beverages,4.78
+53,Large Fries (Combo),Sides,6.98
+54,Hotcakes (Combo),Breakfast,6.98
+55,Cappuccino (Combo),McCafe,6.48
+56,Sundae (Combo),Desserts,5.48
+57,Egg McMuffin Style (Combo),Breakfast,7.48
+58,Small Soda (Combo),Beverages,4.78
+59,Hotcakes (Combo),Breakfast,6.98
+60,Mocha (Combo),McCafe,6.98
